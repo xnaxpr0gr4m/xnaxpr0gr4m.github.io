@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title><?php echo $config['title']; ?></title>
+    <title>Pixel - Digital Agency</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.png">
