@@ -40,7 +40,7 @@
                     <nav class="classy-navbar justify-content-between" id="pixelNav">
 
                         <!-- Nav brand -->
-                        <a href="index.php" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
+                        <a href="indexes/index.php" class="nav-brand"><img src="img/core-img/logo.png" alt=""></a>
 
                         <!-- Navbar Toggler -->
                         <div class="classy-navbar-toggler">
