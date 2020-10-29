@@ -58,7 +58,7 @@
                             <!-- Nav Start -->
                             <div class="classynav">
                                 <ul>
-                                    <li><a href="index.php" style="color:#000000;">Principala</a></li>
+                                    <li><a href="/" style="color:#000000;">Principala</a></li>
                                     <li><a href="about.php" style="color:#000000;">Despre noi</a></li>
                                     <li><a href="services.php" style="color:#000000;">Servicii</a></li>
                                     <li><a href="portfolio.php" style="color:#000000;">Pagini</a>
